@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, world! 👋
 
-<!--
-**isabelizimm/isabelizimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align:center">
+<img alt="Isabel as Ocotocat" src="https://raw.githubusercontent.com/isabelizimm/isabelizimm/master/icon.jpg">
+</div>
 
-Here are some ideas to get you started:
+I’m Isabel Zimmerman (she/her) currently exploring the world of data science tools! 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelizimm&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=isabelizimm&show_icons=true&theme=radical)
+
+Find me online ⬇️
+
+<a href="https://www.linkedin.com/in/isabel-zimmerman"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> 
+<a href="https://twitter.com/isabelizimm">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
