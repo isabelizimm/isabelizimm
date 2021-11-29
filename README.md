@@ -1,12 +1,9 @@
-### Hello, world! 👋☕️
 <div style="text-align:center">
 <img alt="Isabel as Ocotocat" src="https://raw.githubusercontent.com/isabelizimm/isabelizimm/master/icon.jpg">
 </div>
 
+### Hello, world! ☕️
 I’m Isabel Zimmerman (she/her) currently exploring the world of data science tools! 🔭
-
-
-[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelizimm&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=isabelizimm&show_icons=true&theme=radical)
 
 Find me online ⬇️
 
